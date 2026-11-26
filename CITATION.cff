@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "QC-RDH: code and data for 'Fixed-Key Unitary Ciphers Cannot Diffuse'"
+authors:
+  - family-names: Singh
+    given-names: Upasana
+    affiliation: "Aryabhatta College, University of Delhi"
+  - family-names: Singh
+    given-names: V. B.
+    affiliation: "School of Computer and Systems Sciences, Jawaharlal Nehru University"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-27"
+preferred-citation:
+  type: article
+  title: "Fixed-Key Unitary Ciphers Cannot Diffuse: A Limit Theorem for Quantum Image Security and a Provably Secure Reversible Data Hiding Scheme"
+  authors:
+    - family-names: Singh
+      given-names: Upasana
+    - family-names: Singh
+      given-names: V. B.
+  journal: "Journal of Information Security and Applications"
+  status: submitted
+  year: 2026
