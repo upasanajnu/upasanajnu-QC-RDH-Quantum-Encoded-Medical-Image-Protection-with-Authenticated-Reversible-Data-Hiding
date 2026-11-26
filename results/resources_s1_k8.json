@@ -1,0 +1,23 @@
+{
+ "counts": {
+  "prep": 989044,
+  "writeD": 1109849,
+  "key": 2097642
+ },
+ "mcx": 4196535,
+ "payload_bits": 2095294,
+ "cap": 2097152,
+ "one_ancilla": {
+  "total": 2270325435,
+  "cx": 1107885240,
+  "depth": 2140232850
+ },
+ "no_ancilla": {
+  "total": 10579464735
+ },
+ "open_bound": 2421400695,
+ "logical_ops": 4198113,
+ "copies": 3421992.864272343,
+ "qrom_T_estimate": 3145716,
+ "qrom_T_estimate_baseline": 9437172
+}

@@ -1,0 +1,23 @@
+{
+ "(2,2)": {
+  "d": 19,
+  "data_qubits": 22382,
+  "seconds_per_run": 178.6,
+  "total_years_serial": 85.45183776932826,
+  "devices_for_one_day": 31214
+ },
+ "(1,8)": {
+  "d": 19,
+  "data_qubits": 25270,
+  "seconds_per_run": 58.9,
+  "total_years_serial": 6.382699619771863,
+  "devices_for_one_day": 2332
+ },
+ "RR": {
+  "d": 17,
+  "data_qubits": 15606,
+  "seconds_per_run": 35.699999999999996,
+  "total_years_serial": 3.868631178707224,
+  "devices_for_one_day": 1414
+ }
+}

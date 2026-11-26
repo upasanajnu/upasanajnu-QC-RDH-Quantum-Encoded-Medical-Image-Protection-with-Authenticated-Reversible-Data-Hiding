@@ -1,0 +1,17 @@
+{
+ "(2,2)": {
+  "cases": 400,
+  "accepted": 0,
+  "wrong_nonce_rejected": true
+ },
+ "(1,8)": {
+  "cases": 400,
+  "accepted": 0,
+  "wrong_nonce_rejected": true
+ },
+ "RR": {
+  "cases": 400,
+  "accepted": 0,
+  "wrong_nonce_rejected": true
+ }
+}

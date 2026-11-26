@@ -1,0 +1,90 @@
+[
+ {
+  "controls": 18,
+  "ancilla": 1,
+  "ctrl_state": 262143,
+  "qubits": 20,
+  "cx": 264,
+  "gates": 541,
+  "max_amp_error": 1.1615501138396105e-14,
+  "exact": true,
+  "seconds": 2.301353693008423
+ },
+ {
+  "controls": 18,
+  "ancilla": 1,
+  "ctrl_state": 175843,
+  "qubits": 20,
+  "cx": 264,
+  "gates": 555,
+  "max_amp_error": 1.1378567399694855e-14,
+  "exact": true,
+  "seconds": 1.6148810386657715
+ },
+ {
+  "controls": 18,
+  "ancilla": 0,
+  "ctrl_state": 262143,
+  "qubits": 19,
+  "cx": 1226,
+  "gates": 2521,
+  "max_amp_error": 0.00031455910480745423,
+  "exact": false,
+  "seconds": 1.4513928890228271
+ },
+ {
+  "controls": 18,
+  "ancilla": 0,
+  "ctrl_state": 211026,
+  "qubits": 19,
+  "cx": 1226,
+  "gates": 2531,
+  "max_amp_error": 0.0003145591015603824,
+  "exact": false,
+  "seconds": 1.4515166282653809
+ },
+ {
+  "controls": 20,
+  "ancilla": 1,
+  "ctrl_state": 1048575,
+  "qubits": 22,
+  "cx": 296,
+  "gates": 605,
+  "max_amp_error": 1.334907488706943e-14,
+  "exact": true,
+  "seconds": 6.6883649826049805
+ },
+ {
+  "controls": 20,
+  "ancilla": 1,
+  "ctrl_state": 23753,
+  "qubits": 22,
+  "cx": 296,
+  "gates": 629,
+  "max_amp_error": 1.1523478578518148e-14,
+  "exact": true,
+  "seconds": 6.762440919876099
+ },
+ {
+  "controls": 20,
+  "ancilla": 0,
+  "ctrl_state": 1048575,
+  "qubits": 21,
+  "cx": 1522,
+  "gates": 3121,
+  "max_amp_error": 0.0005418619140032881,
+  "exact": false,
+  "seconds": 5.5783984661102295
+ },
+ {
+  "controls": 20,
+  "ancilla": 0,
+  "ctrl_state": 847187,
+  "qubits": 21,
+  "cx": 1522,
+  "gates": 3129,
+  "max_amp_error": 0.00040694014709435195,
+  "exact": false,
+  "seconds": 5.7689902782440186
+ }
+]

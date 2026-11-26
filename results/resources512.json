@@ -1,0 +1,21 @@
+{
+ "counts": {
+  "prep": 989044,
+  "writeD": 1109436,
+  "key": 5245741
+ },
+ "mcx_total": 7344221,
+ "shear_ops": 1760,
+ "other_ops": 38,
+ "one_ancilla": {
+  "cx": 2142240008,
+  "elementary": 4379954889,
+  "depth_serial": 4152284038
+ },
+ "no_ancilla": {
+  "cx": 10885147338,
+  "elementary": 22327887341,
+  "depth_serial": 3778296898
+ },
+ "logical_ops": 7346019
+}

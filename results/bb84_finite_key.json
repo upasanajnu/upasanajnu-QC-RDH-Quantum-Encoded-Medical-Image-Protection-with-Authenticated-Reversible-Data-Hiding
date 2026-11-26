@@ -1,0 +1,62 @@
+{
+ "honest p=1%": {
+  "alice": {
+   "abort": false,
+   "n": 15110,
+   "k": 15079,
+   "leak": 1402,
+   "mu": 0.05687523892885692,
+   "ell": 7154,
+   "auth_bits_used": 512,
+   "net_bits": 6642
+  },
+  "bob": {
+   "abort": false,
+   "lam": 0.009483387492539293
+  },
+  "keys_equal": true,
+  "key_bits": 7154
+ },
+ "honest p=2%": {
+  "alice": {
+   "abort": false,
+   "n": 14864,
+   "k": 15041,
+   "leak": 2391,
+   "mu": 0.057145641057784996,
+   "ell": 6010,
+   "auth_bits_used": 512,
+   "net_bits": 5498
+  },
+  "bob": {
+   "abort": false,
+   "lam": 0.021873545641912108
+  },
+  "keys_equal": true,
+  "key_bits": 6010
+ },
+ "intercept-resend": {
+  "alice": {
+   "abort": true,
+   "lam": 0.25471383836364847
+  },
+  "bob": {
+   "abort": true,
+   "lam": 0.25471383836364847
+  },
+  "keys_equal": false,
+  "key_bits": null
+ },
+ "man-in-the-middle": {
+  "alice": {
+   "abort": true,
+   "reason": "transcript authentication failed"
+  },
+  "bob": {
+   "abort": true,
+   "reason": "transcript authentication failed"
+  },
+  "keys_equal": false,
+  "key_bits": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "implementations": {
+  "Python 3.13 float": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "NumPy float64": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "C, gcc 13 -O0": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "C, gcc 13 -O2 -ffp-contract=off": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "JavaScript, Node 22": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "Java 21": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "Go (GOAMD64=v1)": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "Go (GOAMD64=v3)": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "Rust -O -C target-cpu=native": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "C, gcc 13 -O3 -march=native -ffp-contract=fast (FMA)": {
+   "identical": false,
+   "states_differing": 256
+  },
+  "C, gcc 13 -O3 -ffast-math": {
+   "identical": false,
+   "states_differing": 256
+  }
+ },
+ "first_divergence_iteration_fma": 2,
+ "digest_hex": "25bc4c2b7e23d95b4781191552c3bcfb851df196c3e21519969f6c2b3f38018f",
+ "fixed_point": {
+  "Python (Q32.32)": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "C fixed.c -O0": {
+   "identical": true,
+   "states_differing": 0
+  },
+  "C fixed.c -O3 -ffast-math": {
+   "identical": true,
+   "states_differing": 0
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "main_table_reproduced": {
+  "exact_recovery_all": true,
+  "max_abs_diff": 1.4210854715202004e-14
+ },
+ "ideal": {
+  "NPCR": 99.90234375,
+  "UACI": 33.365885416666664,
+  "H_expected_2e20": 9.99929624699267,
+  "H_expected_2e18": 9.997184987970677,
+  "chi2_crit_95": 1098.5207819245886
+ },
+ "resources": {
+  "mcx": 7344221,
+  "logical_ops": 7346019,
+  "elementary_1anc": 4379954889,
+  "elementary_1anc_open_bound": 4669767553,
+  "mcx_upper_bound_8N_12Np": 14680064,
+  "mcx_within_bound": true,
+  "copies": 15141604.953096215,
+  "qubits_sent": 454248148.59288645,
+  "payload_bits": 2097152,
+  "bits_per_qubit": 0.004616754094642537,
+  "payload_per_transmitted_bit": 0.2,
+  "bpp_stego": 2,
+  "bpp_cover": 8
+ }
+}

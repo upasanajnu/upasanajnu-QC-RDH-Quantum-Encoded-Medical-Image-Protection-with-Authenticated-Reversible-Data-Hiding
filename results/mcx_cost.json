@@ -1,0 +1,80 @@
+{
+ "census_8x8": {
+  "6": 243,
+  "8": 1484
+ },
+ "per_gate": {
+  "6": {
+   "no_ancilla": {
+    "cx": 122,
+    "total": 265,
+    "depth": 130
+   },
+   "one_ancilla": {
+    "cx": 64,
+    "total": 132,
+    "depth": 116
+   }
+  },
+  "7": {
+   "no_ancilla": {
+    "cx": 170,
+    "total": 365,
+    "depth": 158
+   },
+   "one_ancilla": {
+    "cx": 88,
+    "total": 189,
+    "depth": 158
+   }
+  },
+  "8": {
+   "no_ancilla": {
+    "cx": 226,
+    "total": 481,
+    "depth": 186
+   },
+   "one_ancilla": {
+    "cx": 104,
+    "total": 221,
+    "depth": 190
+   }
+  },
+  "18": {
+   "no_ancilla": {
+    "cx": 1226,
+    "total": 2521,
+    "depth": 466
+   },
+   "one_ancilla": {
+    "cx": 264,
+    "total": 541,
+    "depth": 510
+   }
+  },
+  "19": {
+   "no_ancilla": {
+    "cx": 1370,
+    "total": 2813,
+    "depth": 494
+   },
+   "one_ancilla": {
+    "cx": 280,
+    "total": 573,
+    "depth": 542
+   }
+  },
+  "20": {
+   "no_ancilla": {
+    "cx": 1522,
+    "total": 3121,
+    "depth": 522
+   },
+   "one_ancilla": {
+    "cx": 296,
+    "total": 605,
+    "depth": 574
+   }
+  }
+ }
+}

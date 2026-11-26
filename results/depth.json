@@ -1,0 +1,11 @@
+{
+ "qubits": 18,
+ "ops_logical": 1847,
+ "depth_logical": 1777,
+ "depth_prep_embed": 491,
+ "depth_enc": 1286,
+ "depth_elementary": 157190,
+ "cx": 80084,
+ "u": 82567,
+ "elementary": 162651
+}

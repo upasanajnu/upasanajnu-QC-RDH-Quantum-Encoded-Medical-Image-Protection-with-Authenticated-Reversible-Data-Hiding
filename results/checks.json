@@ -1,0 +1,49 @@
+{
+ "E1_shears_bijective_and_invertible_n2_10": true,
+ "E2_shear_det": [
+  1,
+  1
+ ],
+ "E3_shift_is_permutation": true,
+ "E3_shift_equals_4c_for_c_lt_256": true,
+ "E3_shift_is_cyclic_rotation_all": true,
+ "E4_writeD_unitary_permutation": true,
+ "E4_writeD_involution": true,
+ "E4_keyoracle_unitary_permutation": true,
+ "E4_keyoracle_involution": true,
+ "E5_draper_unitary": true,
+ "E5_draper_inverse_is_negated_constants": true,
+ "E6_neqr_overlap_identity_200": true,
+ "E7_huffman_kraft_prefix_roundtrip_200": true,
+ "E7_header_length_formula_200": true,
+ "E8_capacity_abort": 150,
+ "E8_roundtrip_ok": true,
+ "E8_wrong_key_rejected": 150,
+ "E8_tamper_rejected": 150,
+ "E8_trials_run": 150,
+ "E8_trials_attempted": 150,
+ "E9_max_value": 1023,
+ "E10_npcr_ideal": 99.90234375,
+ "E10_uaci_ideal_formula": 33.365885416666664,
+ "E10_uaci_monte_carlo": 33.368178152492675,
+ "E10_entropy_expected_finite_sample": 9.99929624699267,
+ "E10_entropy_monte_carlo_mean": 9.999300581738982,
+ "E10_chi2_mean_sd": [
+  1023,
+  45.232731511594565
+ ],
+ "E10_chi2_crit_5pct": 1098.5207819245886,
+ "E10_corr_sigma": 0.0009765625,
+ "E11_expected_shots_256": 1567.3326360011679,
+ "E11_simulated_mean_256": 1556.002,
+ "E11_exact_H_formula_256": 1567.8323104812237,
+ "E12_queries": {
+  "xor_512": 4,
+  "general_512": 259
+ },
+ "E13_qber_intercept_resend": 0.25,
+ "E14_capacity_bits": 2097152,
+ "E14_bits_per_cover_pixel": 8.0,
+ "E14_bits_per_stego_pixel": 2.0,
+ "E14_per_transmitted_bit": 0.2
+}

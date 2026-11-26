@@ -1,0 +1,32 @@
+{
+ "cx": 13060,
+ "u": 13524,
+ "depth": 25537,
+ "runs": [
+  {
+   "p": 0,
+   "correct": 1.0,
+   "no_fault_probability": 1.0,
+   "shots": 300
+  },
+  {
+   "p": 1e-05,
+   "correct": 0.89,
+   "no_fault_probability": 0.8658,
+   "shots": 300
+  },
+  {
+   "p": 0.0001,
+   "correct": 0.38,
+   "no_fault_probability": 0.2366185375980846,
+   "shots": 150
+  },
+  {
+   "p": 0.001,
+   "correct": 0.006666666666666667,
+   "no_fault_probability": 5.468988435727153e-07,
+   "shots": 150
+  }
+ ],
+ "note": "p=0 and 1e-5 from the 300-shot run (log noise.log), 1e-4 and 1e-3 from the 150-shot run"
+}

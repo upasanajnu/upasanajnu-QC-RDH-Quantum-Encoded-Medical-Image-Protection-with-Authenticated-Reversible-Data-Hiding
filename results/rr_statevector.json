@@ -1,0 +1,16 @@
+{
+ "logical": {
+  "gates": 7290,
+  "cx": 0,
+  "branches": 1024,
+  "amp_spread": 2.7755575615628914e-16,
+  "equals_emulation": true
+ },
+ "elementary": {
+  "gates": 982663,
+  "cx": 485334,
+  "branches": 1024,
+  "amp_spread": 6.218636716681658e-14,
+  "equals_emulation": true
+ }
+}
